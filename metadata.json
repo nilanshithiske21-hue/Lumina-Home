@@ -1,0 +1,6 @@
+{
+  "name": "Lumina Home - Smart Living Store",
+  "description": "Architectural smart home store featuring ecosystem compatibility, interactive device simulators, checkout with payment gateway, order tracking, and profile address management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
